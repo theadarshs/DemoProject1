@@ -1,0 +1,252 @@
+1666032762271	geckodriver	INFO	Listening on 127.0.0.1:63717
+1666032765360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63718" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofileLkXKVZ"
+1666032765722	Marionette	INFO	Marionette enabled
+1666032765728	Marionette	INFO	Listening on port 63729
+Read port: 63729
+WebDriver BiDi listening on ws://127.0.0.1:63718
+1666032765880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofileLkXKVZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63718/devtools/browser/3f22f25a-3770-40bd-8272-0bff20332264
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1666032788599	Marionette	INFO	Stopped listening on port 63729
+1666032927202	geckodriver	INFO	Listening on 127.0.0.1:64126
+1666032930253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofilelQVsr0"
+1666032930606	Marionette	INFO	Marionette enabled
+1666032930610	Marionette	INFO	Listening on port 64140
+WebDriver BiDi listening on ws://127.0.0.1:64127
+Read port: 64140
+1666032930837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofilelQVsr0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64127/devtools/browser/5b255852-6ee8-49ae-a48b-c4e5c0acfa13
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1666032982986	Marionette	INFO	Stopped listening on port 64140
+[Parent 99332, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666033010739	geckodriver	INFO	Listening on 127.0.0.1:64514
+1666033013831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofiledZ3ioj"
+1666033014188	Marionette	INFO	Marionette enabled
+1666033014193	Marionette	INFO	Listening on port 64527
+WebDriver BiDi listening on ws://127.0.0.1:64515
+Read port: 64527
+1666033014422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofiledZ3ioj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64515/devtools/browser/741b2bfd-28a5-4355-93ad-b4a25420e5a9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1666033035177	Marionette	INFO	Stopped listening on port 64527
+1666178362646	geckodriver	INFO	Listening on 127.0.0.1:63094
+1666178365743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63095" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofileXbvNTM"
+1666178366272	Marionette	INFO	Marionette enabled
+1666178366277	Marionette	INFO	Listening on port 63108
+Read port: 63108
+WebDriver BiDi listening on ws://127.0.0.1:63095
+1666178366404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofileXbvNTM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63095/devtools/browser/df823985-737a-433a-9c66-68e8ce1d1226
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666178418053	Marionette	INFO	Stopped listening on port 63108
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666178421054	geckodriver	INFO	Listening on 127.0.0.1:63407
+1666178424098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofilegoLpAY"
+1666178424409	Marionette	INFO	Marionette enabled
+1666178424413	Marionette	INFO	Listening on port 63421
+Read port: 63421
+WebDriver BiDi listening on ws://127.0.0.1:63409
+1666178424512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofilegoLpAY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63409/devtools/browser/ae5bb33c-4f9b-4ccd-9197-cf5c2a988845
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1666178495222	Marionette	INFO	Stopped listening on port 63421
+1666178499795	geckodriver	INFO	Listening on 127.0.0.1:63760
+1666178502843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofilelG0jte"
+1666178503162	Marionette	INFO	Marionette enabled
+1666178503166	Marionette	INFO	Listening on port 63771
+Read port: 63771
+WebDriver BiDi listening on ws://127.0.0.1:63761
+1666178503267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofilelG0jte\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63761/devtools/browser/94823cc4-1a23-43f7-81b2-d0a467bc3647
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666178651474	geckodriver	INFO	Listening on 127.0.0.1:64164
+1666178654539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofile57StBa"
+1666178654963	Marionette	INFO	Marionette enabled
+1666178654967	Marionette	INFO	Listening on port 64177
+Read port: 64177
+WebDriver BiDi listening on ws://127.0.0.1:64165
+1666178655077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofile57StBa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64165/devtools/browser/abb6dab3-0da9-43b5-a960-dde93325d401
+1666178662165	geckodriver	INFO	Listening on 127.0.0.1:64257
+1666178665238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64258" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofile6PDeVA"
+1666178665547	Marionette	INFO	Marionette enabled
+1666178665553	Marionette	INFO	Listening on port 64268
+Read port: 64268
+WebDriver BiDi listening on ws://127.0.0.1:64258
+1666178665653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofile6PDeVA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64258/devtools/browser/20afd81d-4561-46e6-99b6-27e993f3e11f
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1666178730839	Marionette	INFO	Stopped listening on port 64268
+1666194518644	geckodriver	INFO	Listening on 127.0.0.1:49482
+1666194521733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofile1AiSfB"
+1666194522307	Marionette	INFO	Marionette enabled
+1666194522314	Marionette	INFO	Listening on port 49499
+Read port: 49499
+WebDriver BiDi listening on ws://127.0.0.1:49483
+1666194522486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofile1AiSfB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49483/devtools/browser/34b7e696-465c-4bb2-96b6-2816710046d4
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1666194614383	Marionette	INFO	Stopped listening on port 49499
+1666194622927	geckodriver	INFO	Listening on 127.0.0.1:49866
+1666194625979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofilefj3h09"
+1666194626457	Marionette	INFO	Marionette enabled
+1666194626461	Marionette	INFO	Listening on port 49880
+Read port: 49880
+WebDriver BiDi listening on ws://127.0.0.1:49867
+1666194626614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofilefj3h09\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49867/devtools/browser/2e249320-362b-4f81-898c-66bad66e3f12
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1666194717810	Marionette	INFO	Stopped listening on port 49880
+[Parent 101948, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666194764729	geckodriver	INFO	Listening on 127.0.0.1:50246
+1666194767758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofileErgbCH"
+1666194768113	Marionette	INFO	Marionette enabled
+1666194768117	Marionette	INFO	Listening on port 50258
+Read port: 50258
+WebDriver BiDi listening on ws://127.0.0.1:50247
+1666194768278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofileErgbCH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50247/devtools/browser/08fbdee0-8d2c-4e62-8c58-df54c66f2fc9
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1666194904987	Marionette	INFO	Stopped listening on port 50258
+1666195055163	geckodriver	INFO	Listening on 127.0.0.1:50698
+1666195058238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofilepM65Q3"
+1666195058622	Marionette	INFO	Marionette enabled
+1666195058627	Marionette	INFO	Listening on port 50710
+Read port: 50710
+WebDriver BiDi listening on ws://127.0.0.1:50699
+1666195058741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofilepM65Q3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50699/devtools/browser/56f5be66-c52f-4b40-89a7-89711c282239
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1666195177526	Marionette	INFO	Stopped listening on port 50710
+1666195979036	geckodriver	INFO	Listening on 127.0.0.1:51508
+1666195982122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51509" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofilekT7OIS"
+1666195982475	Marionette	INFO	Marionette enabled
+1666195982479	Marionette	INFO	Listening on port 51521
+WebDriver BiDi listening on ws://127.0.0.1:51509
+Read port: 51521
+1666195982740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofilekT7OIS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51509/devtools/browser/a1a14d81-a444-49e3-b590-8c87d4197636
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1666196046283	Marionette	INFO	Stopped listening on port 51521
+1666196056998	geckodriver	INFO	Listening on 127.0.0.1:51882
+1666196060067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofilepNCpOj"
+1666196060510	Marionette	INFO	Marionette enabled
+1666196060515	Marionette	INFO	Listening on port 51893
+WebDriver BiDi listening on ws://127.0.0.1:51883
+Read port: 51893
+1666196060774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofilepNCpOj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51883/devtools/browser/f76f3d00-70ce-4878-bad4-f36e862377a5
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1666196195921	Marionette	INFO	Stopped listening on port 51893
+1666196442480	geckodriver	INFO	Listening on 127.0.0.1:52451
+1666196445557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52452" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofile4v6pTt"
+1666196445952	Marionette	INFO	Marionette enabled
+1666196445958	Marionette	INFO	Listening on port 52464
+Read port: 52464
+WebDriver BiDi listening on ws://127.0.0.1:52452
+1666196446084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofile4v6pTt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52452/devtools/browser/ac6cde1f-8394-4b78-b12b-5f6da914edaa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1666196486631	Marionette	INFO	Stopped listening on port 52464
+1666204434781	geckodriver	INFO	Listening on 127.0.0.1:57368
+1666204437898	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57369" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofiletahgUo"
+1666204438790	Marionette	INFO	Marionette enabled
+1666204438797	Marionette	INFO	Listening on port 57381
+Read port: 57381
+WebDriver BiDi listening on ws://127.0.0.1:57369
+1666204438928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofiletahgUo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57369/devtools/browser/706a73c0-53cd-4751-9a10-6eca96c20a2d
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666204474590	Marionette	INFO	Stopped listening on port 57381
+1666204584425	geckodriver	INFO	Listening on 127.0.0.1:57780
+1666204587473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57781" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofile7abKh1"
+1666204587877	Marionette	INFO	Marionette enabled
+1666204587882	Marionette	INFO	Listening on port 57791
+Read port: 57791
+WebDriver BiDi listening on ws://127.0.0.1:57781
+1666204587992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofile7abKh1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57781/devtools/browser/34a0a22c-390d-48fe-966a-c3ff8751c479
+1666204603660	Marionette	INFO	Stopped listening on port 57791
+1666204757046	geckodriver	INFO	Listening on 127.0.0.1:58093
+1666204760130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58094" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofilegtMgv6"
+1666204760584	Marionette	INFO	Marionette enabled
+1666204760589	Marionette	INFO	Listening on port 58104
+WebDriver BiDi listening on ws://127.0.0.1:58094
+Read port: 58104
+1666204760865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofilegtMgv6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58094/devtools/browser/e1f2b07d-4d53-4f66-b8dc-34b584d801f0
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666204808702	Marionette	INFO	Stopped listening on port 58104
+1666204902898	geckodriver	INFO	Listening on 127.0.0.1:58473
+1666204905966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58474" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofileCtZOkh"
+1666204906318	Marionette	INFO	Marionette enabled
+1666204906324	Marionette	INFO	Listening on port 58491
+WebDriver BiDi listening on ws://127.0.0.1:58474
+Read port: 58491
+1666204906582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofileCtZOkh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58474/devtools/browser/78366324-9504-4079-904f-7cdc1337b386
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666204958119	Marionette	INFO	Stopped listening on port 58491
+[Parent 49488, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666375721214	geckodriver	INFO	Listening on 127.0.0.1:55109
+1666375724316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55110" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofilep9XxgU"
+1666375724741	Marionette	INFO	Marionette enabled
+1666375724747	Marionette	INFO	Listening on port 55123
+Read port: 55123
+WebDriver BiDi listening on ws://127.0.0.1:55110
+1666375724873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofilep9XxgU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55110/devtools/browser/a12705fa-6560-4a64-94a6-6c67f1638971
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1666375790850	Marionette	INFO	Stopped listening on port 55123
+1666375813859	geckodriver	INFO	Listening on 127.0.0.1:55392
+1666375816941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55393" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofileIZsRYM"
+1666375817292	Marionette	INFO	Marionette enabled
+1666375817297	Marionette	INFO	Listening on port 55402
+WebDriver BiDi listening on ws://127.0.0.1:55393
+Read port: 55402
+1666375817511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofileIZsRYM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55393/devtools/browser/09d383b4-eedd-4748-b730-24e91da490a0
+1666375835633	Marionette	INFO	Stopped listening on port 55402
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 22436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

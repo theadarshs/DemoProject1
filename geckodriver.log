@@ -1,0 +1,13 @@
+1666024963762	geckodriver	INFO	Listening on 127.0.0.1:59699
+1666024966865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59700" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofile8ubkut"
+1666024967440	Marionette	INFO	Marionette enabled
+1666024967446	Marionette	INFO	Listening on port 59710
+WebDriver BiDi listening on ws://127.0.0.1:59700
+Read port: 59710
+1666024967727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofile8ubkut\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59700/devtools/browser/8272542b-b668-439c-b4db-52d3c78cfada
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://erp.codeyo.cloud."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://erp.codeyo.cloud."
+1666024989184	Marionette	INFO	Stopped listening on port 59710
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
