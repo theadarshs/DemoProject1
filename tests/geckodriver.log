@@ -2219,3 +2219,19 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:50116/devtools/browser/e68faee1-0b28-4f41-a0de-5fda8ba3d230
 JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1671208212979	Marionette	INFO	Stopped listening on port 50126
+1671208758561	geckodriver	INFO	Listening on 127.0.0.1:50529
+1671208761629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50530" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofileUEgXYw"
+1671208762011	Marionette	INFO	Marionette enabled
+1671208762019	Marionette	INFO	Listening on port 50541
+Read port: 50541
+WebDriver BiDi listening on ws://127.0.0.1:50530
+1671208762145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABHISH~1\\AppData\\Local\\Temp\\rust_mozprofileUEgXYw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50530/devtools/browser/9d4e2781-512a-4739-ae8f-af3a43345787
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1671208866240	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
